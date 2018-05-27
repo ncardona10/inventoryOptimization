@@ -30,9 +30,9 @@ def iterar():
         uprom.append((sumU+0.0)/(2*(i+1)))
 
     suma = np.array(xprom)+np.array(uprom)
-    # print("xprom " + str(xprom[-1]))
-    # print("uprom " + str(uprom[-1]))
-    # print("suma " + str(suma[-1]))
+    print("xprom " + str(xprom[-1]))
+    print("uprom " + str(uprom[-1]))
+    print("suma " + str([-1]))
     plt.plot(suma)
     # plt.plot(xprom,c="blue")
     # plt.plot(uprom,c="black")

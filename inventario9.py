@@ -6,6 +6,7 @@ s_max = 8
 
 N = 500
 
+
 def iterar():
     x = [0]
     xprom = []
